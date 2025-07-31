@@ -1,2 +1,1 @@
-# KbKbboomup-bot
-Kbboomup-bot#kb
+bot_combined.py
