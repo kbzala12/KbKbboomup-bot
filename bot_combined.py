@@ -8,7 +8,7 @@ import datetime
 import requests
 
 # 🔐 Config
-BOT_TOKEN = "7559801414:AAG6nHs9zoF9CLDknI9E3c5zBqz8ekcgPXQ"
+BOT_TOKEN = "8476910610:AAHQhU8iLmr1CxL_4Yj3x_VjTAgLngNg9UQ"
 ADMIN_ID = 7470248597
 WEBAPP_URL = "https://kbkbboomup-bot-10.onrender.com"
 
