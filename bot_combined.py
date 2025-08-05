@@ -10,7 +10,7 @@ import requests
 # 🔐 Config
 BOT_TOKEN = "8324637176:AAFeKHN29fpeGA4b7w5RfvSgrOH8LRkCYmY"
 ADMIN_ID = 7470248597
-WEBAPP_URL = "https://kbkbboomup-bot-10.onrender.com"
+WEBAPP_URL = 
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
